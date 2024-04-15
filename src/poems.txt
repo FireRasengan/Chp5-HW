@@ -1,0 +1,1 @@
+[Poem [name=Kindness, poet=Naomi Shihab Nye], Poem [name=A Line-storm Song, poet=Robert Frost], Poem [name=The Weary Blues, poet=Langston Hughes]]
